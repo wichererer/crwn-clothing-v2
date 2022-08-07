@@ -18,7 +18,7 @@ render(
             <BrowserRouter>
                 <App/>
             </BrowserRouter>
-            </PersistGatei>
+            </PersistGate>
         </Provider>
     </React.StrictMode>,
     rootElement
